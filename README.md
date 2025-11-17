@@ -1,3 +1,2 @@
 # DLRS
-Deep Learning in Recommender Systems
-PyTorch
+Deep Learning in Recommender Systems (PyTorch)
